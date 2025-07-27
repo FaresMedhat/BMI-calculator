@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+    <style name="Theme.BMI_Calculatur" parent="Base.Theme.BMI_Calculatur"/>
+    <style name="splash_Screen" parent="Theme.AppCompat.Light.NoActionBar">
+        i
+    </style>
+</resources>

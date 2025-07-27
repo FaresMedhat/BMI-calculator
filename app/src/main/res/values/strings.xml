@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI_Calculatur</string>
+    <string name="Hight">Hight</string>
+    <string name="Decrement">-</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Bmi_calculator">BMI Calculator</string>
+    <string name="back">Back</string>
+</resources>
